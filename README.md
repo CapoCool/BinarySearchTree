@@ -1,0 +1,2 @@
+# BinarySearchTree
+Custom made BinarySearchTree
